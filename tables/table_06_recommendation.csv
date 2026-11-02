@@ -1,0 +1,2 @@
+Glucose [mM],Glutamine [mM],VCD [cells/mL],Harvest Time [h],Harvest Time [d],Cost [$/L],mAb Median [mg/L],mAb Lower [mg/L],mAb Upper [mg/L],Value Median [$/L],Value Lower [$/L],Value Upper [$/L],STP Median [$/(L*d)],STP Lower [$/(L*d)],STP Upper [$/(L*d)],STY Median [mg/(L*d)],STY Lower [mg/(L*d)],STY Upper [mg/(L*d)]
+20.0,2.0,600000.0,96.0,4.0,540.0,0.9468401016828786,0.7869649875687352,1.0930700839025538,946.8401016828786,786.9649875687352,1093.0700839025537,81.36802033657571,49.392997513747034,110.61401678051074,0.1893680203365757,0.15739299751374705,0.21861401678051073
